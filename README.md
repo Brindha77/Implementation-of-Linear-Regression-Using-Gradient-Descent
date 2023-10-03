@@ -88,17 +88,22 @@ predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)))
 ```
 ## Output:
+## PROFIT PREDICTION:
 ![image](https://github.com/Brindha77/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889143/a0c19a82-e2f8-4d32-80a6-5b33b778ee87)
 
-
+## COST FUNCTION:
 ![image](https://github.com/Brindha77/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889143/e240ac65-363e-4eec-abe1-2f0a8f37f5ba)
 
+## GRADIENT DESCENT:
 ![image](https://github.com/Brindha77/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889143/df6884e2-4aa5-4630-ae52-2235169ce251)
 
+## COST FUNCTION USING GRADIENT DESCENT:
 ![e 1](https://github.com/Brindha77/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889143/db29ee49-a175-4fb0-ab0d-bed4d452195f)
 
+## GRAPH WITH BEST FIT LINE (PROFIT PREDICTION):
 ![image](https://github.com/Brindha77/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889143/f186e5f7-72b5-4be5-bed0-9ce62b6bdf7c)
 
+## PROFIT PREDICTION FOR A POPULATION OF 35,000 & 70,000:
 ![image](https://github.com/Brindha77/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889143/4a2e7682-45c2-4b55-896b-f8497b969e2e)
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
